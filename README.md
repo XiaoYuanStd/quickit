@@ -1,6 +1,8 @@
 # quickit
 
-Quickit is a simple software to help open programs quickly
+Quickit is a simple software to help open programs quickly. (Q+K to open UI)
+
+![screenshot](/screenshot.png "Quickit")
 
 ---
 Quickit is written in pure cpp and compiled using msvc.
